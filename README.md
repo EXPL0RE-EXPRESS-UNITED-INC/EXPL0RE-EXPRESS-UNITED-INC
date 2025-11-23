@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img width="600" height="600" src="https://64.media.tumblr.com/ab20ee5ca795c1a030967655b384192e/ab3306c48020fb46-48/s2048x3072/bf7ba728c17e47b80a3644dd0aaff91a395d426c.pnj">
+  <img width="400" height="400" src="https://64.media.tumblr.com/ab20ee5ca795c1a030967655b384192e/ab3306c48020fb46-48/s2048x3072/bf7ba728c17e47b80a3644dd0aaff91a395d426c.pnj">
 </p>
   
 <p align="center">
-  <img width="300" height="300" src="https://static.wikitide.net/urbanshadewiki/thumb/c/c0/PainterQuoteIcon.png/800px-PainterQuoteIcon.png">
+  <img width="200" height="200" src="https://static.wikitide.net/urbanshadewiki/thumb/c/c0/PainterQuoteIcon.png/800px-PainterQuoteIcon.png">
 </p>
 
 <p align="center">osdd-1b system</p>
