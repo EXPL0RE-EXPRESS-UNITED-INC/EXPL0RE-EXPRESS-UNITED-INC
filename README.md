@@ -10,9 +10,8 @@
   <img width="300" height="300" src="https://static.wikitide.net/urbanshadewiki/thumb/c/c0/PainterQuoteIcon.png/800px-PainterQuoteIcon.png">
 </p>
 
-<p align="center">
-  osdd system   .   ask who's frontin  .  c*h encouraged
-</p>
+<p align="center">osdd-1b system</p>
+<p align="center">ask who's fronting</p>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&color=grey&label=expendables+sniped)
 
