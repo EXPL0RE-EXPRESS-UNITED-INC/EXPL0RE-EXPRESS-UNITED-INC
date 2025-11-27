@@ -13,7 +13,9 @@
 <p align="center">osdd-1b system</p>
 <p align="center">ask who's fronting</p>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&color=grey&label=expendables+sniped)
+<div align="center">    
+  <img src="https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&label=　expendables+sniped　&color=898989&style=plastic" alt="Profile views"/>
+</div>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/e561dce85a379ac64a33041bd06d8240/75d101d293818456-36/s1280x1920/9a7b0641b2980afe9b2e2925b499186c41eae430.pnj">
