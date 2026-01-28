@@ -2,6 +2,10 @@
   <img src="https://64.media.tumblr.com/88afe9d45f83a6694d13b824d9c3891b/75d101d293818456-0a/s1280x1920/4f6ad89b23606044979f94aaf1b0fe1a54cba434.pnj">
 </p>
 
+<p align="center">
+  unreadable on mobile
+</p>
+
 <div align="center">    
   <img src="https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&label=　i+heard+your+voice+again　&color=707C8F&style=for-the-badge" alt="Profile views"/>
 </div>
@@ -38,7 +42,13 @@
   <img width="300" height="300" src="https://i.ibb.co/BHtgh6Lm/05fcf34a60756b2e5ab4186aa4585cbf-removebg-preview.png">
 </p>
 <p align="center">
-  ${\color{#E2F1FA}\space ♡ sebpainter \space PLEASE \space interact! }$ <img src="https://atabook.org/images/smileys/blush.gif"><img src="https://atabook.org/images/smileys/blush.gif"><p>
+  ${\color{#E2F1FA}\space ♡ \space sebpainter/watercolors \space PLEASE \space interact!! }$ <img src="https://atabook.org/images/smileys/blush.gif"><img src="https://atabook.org/images/smileys/blush.gif"><p>
+</p">
 <p align="center">
+  ${\color{#E2F1FA}\space ⓘ \space pls \space dont \space harrass \space me \space if \space you \space dont \space like \space the \space ship! \space it's \space just \space not \space cool \space and \space you \space dont \space really \space gain \space anything \space out \space of \space it. \space}$<img src="https://atabook.org/images/smileys/notgood.gif">${\color{#E2F1FA}\space leave \space me \space alone \space OR \space block/hide \space me \space if \space it \space makes \space you \space uncomfortable! \space }$<img src="https://atabook.org/images/smileys/perfect.gif"><p>
+<p align="center">
+  ${\color{#E2F1FA}\space (it's \space not \space a \space proship \space the \space creators \space said \space it's \space okay \space to \space ship \space it \space LEAVE \space ME \space ALONEEEUHHH) }$
+</p>
+  
   <img src="https://64.media.tumblr.com/e561dce85a379ac64a33041bd06d8240/75d101d293818456-36/s1280x1920/9a7b0641b2980afe9b2e2925b499186c41eae430.pnj">
 </p>
