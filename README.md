@@ -18,13 +18,16 @@
 </p>
 
 <p align="center">
-  ${\color{#E2F1FA}\space funny \space osdd-1b \space system \space who \space likes \space to \space lurk \space on \space ponytown }$
+  ${\color{#E2F1FA}\space ▷ \space funny \space osdd-1b \space system \space who \space likes \space to \space lurk \space on \space ponytown }$
 </p>
 <p align="center">
-  ${\color{#E2F1FA}\space ask \space who's \space fronting! }$
+  ${\color{#E2F1FA}\space ▷ \space ask \space who's \space fronting! }$
 </p>
 <p align="center">
-  ${\color{#E2F1FA}\space interact/iwc \space always \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
+  ${\color{#E2F1FA}\space ▷ \space w2i \space / \space iwc \space always, \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
+</p>
+<p align="center">
+  ${\color{#E2F1FA}\space ▷ \space im \space normally \space offtab \space and \space late \space to \space reply \space to \space messages \space (like \space whispers \space and \space such) }$
 </p>
 
 <p align="center">
@@ -35,8 +38,7 @@
   <img width="300" height="300" src="https://i.ibb.co/BHtgh6Lm/05fcf34a60756b2e5ab4186aa4585cbf-removebg-preview.png">
 </p>
 <p align="center">
-  ${\color{#E2F1FA}\space sebpainter \space PLEASE \space interact! }$ <img src="https://atabook.org/images/smileys/blush.gif"><img src="https://atabook.org/images/smileys/blush.gif"><p>
-
+  ${\color{#E2F1FA}\space ♡ sebpainter \space PLEASE \space interact! }$ <img src="https://atabook.org/images/smileys/blush.gif"><img src="https://atabook.org/images/smileys/blush.gif"><p>
 <p align="center">
   <img src="https://64.media.tumblr.com/e561dce85a379ac64a33041bd06d8240/75d101d293818456-36/s1280x1920/9a7b0641b2980afe9b2e2925b499186c41eae430.pnj">
 </p>
