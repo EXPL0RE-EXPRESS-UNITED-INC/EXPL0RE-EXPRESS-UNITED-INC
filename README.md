@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  I DO NOT SUPPORT ZEAL FUCK THAT MAN HE DESERVES TO ROT IN JAIL PLEASE SEPARATE THE ART FROM THE ARTIST PLEASE
+  I DO NOT SUPPORT ZEAL.  FUCK THAT MAN. HE DESERVES TO ROT IN JAIL CELL AND BURN IN HELL. PLEASE SEPARATE THE ART FROM THE ARTIST.
 </p>
 
 <p align="center">
-  go support ren, fuck zeal
+  PLEASE go support and show your love to ren and their experience as a victim, read the doc if you can!!!! fuck zeal, zerum, and their shitty dev team
 </p>
 
 <div align="center">    
