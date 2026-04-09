@@ -6,6 +6,14 @@
   unreadable on mobile
 </p>
 
+<p align="center">
+  I DO NOT SUPPORT ZEAL FUCK THAT MAN HE DESERVES TO ROT IN JAIL PLEASE SEPARATE THE ART FROM THE ARTIST PLEASE
+</p>
+
+<p align="center">
+  go support ren, fuck zeal
+</p>
+
 <div align="center">    
   <img src="https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&label=　i+heard+your+voice+again　&color=707C8F&style=for-the-badge" alt="Profile views"/>
 </div>
