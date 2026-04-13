@@ -7,11 +7,15 @@
 </p>
 
 <p align="center">
-  I DO NOT SUPPORT ZEAL.  FUCK THAT MAN. HE DESERVES TO ROT IN A JAIL CELL AND BURN IN HELL FOREVER. PLEASE SEPARATE THE ART FROM THE ARTIST BECAUSE I STILL LIKE PAINTER!!!
+  I DO NOT SUPPORT ZEAL.  FUCK THAT MAN. HE DESERVES TO ROT IN A JAIL CELL AND BURN IN HELL FOREVER.
 </p>
 
 <p align="center">
-  PLEASE go support and show your love to ren and their experience as a victim, read the doc if you can!!!! fuck zeal, zerum, and their shitty dev team
+  PLEASE go support and show your love to ren and their experience with zeal, read the doc if you can!!!! FUCK ZEAL
+</p>
+
+<p align="center">
+  yes i plan to change the theme of my gh profile but i haven't decided on who to theme it around yet
 </p>
 
 <div align="center">    
@@ -53,7 +57,7 @@
   ${\color{#E2F1FA}\space ♡ \space me \space and \space him... }$ <img src="https://atabook.org/images/smileys/blush.gif"><img src="https://atabook.org/images/smileys/blush.gif"><p>
 </p">
 <p align="center">
-  ${\color{#E2F1FA}\space ♡ \space i \space love \space u \space painter \space and \space sebastian \space im \space sorry \space your \space creators \space are \space shitty. }$ <img src="https://atabook.org/images/smileys/frown.gif"><p>
+  ${\color{#E2F1FA}\space ♡ \space i \space love \space u \space painter \space and \space sebastian, \space im \space sorry \space your \space creators \space are \space shitty \space people. }$ <img src="https://atabook.org/images/smileys/frown.gif"><p>
 </p">
   
   <img src="https://64.media.tumblr.com/e561dce85a379ac64a33041bd06d8240/75d101d293818456-36/s1280x1920/9a7b0641b2980afe9b2e2925b499186c41eae430.pnj">
