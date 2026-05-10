@@ -7,15 +7,7 @@
 </p>
 
 <p align="center">
-  I DO NOT SUPPORT ZEAL.  FUCK THAT MAN. HE DESERVES TO ROT IN A JAIL CELL AND BURN IN HELL FOREVER.
-</p>
-
-<p align="center">
-  PLEASE go support and show your love to ren and their experience with zeal, read the doc if you can!!!! FUCK ZEAL
-</p>
-
-<p align="center">
-  yes i plan to change the theme of my gh profile but i haven't decided on who to theme it around yet
+  i dont support zeal
 </p>
 
 <div align="center">    
