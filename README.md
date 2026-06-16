@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  i dont support zeal
+  i dont support zeal! i do plan my gh theme to phm/iron lung (mainly bloodymary)
 </p>
 
 <div align="center">    
@@ -38,7 +38,7 @@
   <img width="300" height="300" src="https://i.ibb.co/BHtgh6Lm/05fcf34a60756b2e5ab4186aa4585cbf-removebg-preview.png">
 </p>
 <p align="center">
-  ${\color{#E2F1FA}\space ♡ \space me \space and \space him... }$ <img src="https://atabook.org/images/smileys/blush.gif"><img src="https://atabook.org/images/smileys/blush.gif"><p>
+  ${\color{#E2F1FA}\space ♡ \space me \space and \space twin }$ <img src="https://atabook.org/images/smileys/blush.gif"><img src="https://atabook.org/images/smileys/blush.gif"><p>
 </p">
 <p align="center">
   ${\color{#E2F1FA}\space ♡ \space i \space love \space u \space painter \space and \space sebastian, \space im \space sorry \space your \space creators \space are \space shitty \space people. }$ <img src="https://atabook.org/images/smileys/frown.gif"><p>
