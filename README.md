@@ -5,7 +5,10 @@
 
 <p align="center">
   unreadable on mobile, sorry mobile users!!!!
+</p><p align="center">
+  pc / laptop recommended
 </p>
+
 
 <div align="center">    
   <img src="https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&label=　save+the+stars　&color=9389C2&style=for-the-badge" alt="Profile views"/>
