@@ -5,7 +5,8 @@
 
 <p align="center">
   unreadable on mobile, sorry mobile users!!!!
-</p><p align="center">
+</p>
+<p align="center">
   pc / laptop recommended
 </p>
 
@@ -56,6 +57,20 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ux257o25gaikhb3j6fnwwchp7y&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121118&interchange=false&profanity=false&hide_remaster=false&bar_color=9389c2&bar_color_cover=false&mode=dark">
   </a>
+</p>
+
+<p align="center">
+  graphic creds (all on tumblr) :
+  <p align="center">  
+  <img src="https://64.media.tumblr.com/0d286996688c0b43e249983ec316f05b/017a0364a08995cd-e0/s250x400/125d6d4dafd4bffd8f5ca3d017d28c8b0bf66e65.pnj">
+<p align="center">
+  @br4ineaterz (bloodymary graphics)
+<p align="center">
+  @stamprequestie (grace stamp)
+<p align="center">
+  @omi-resources (dividers)
+<p align="center">
+  @the-graphics-ace (moon graphic)
 </p>
 
 <p align="center">  
