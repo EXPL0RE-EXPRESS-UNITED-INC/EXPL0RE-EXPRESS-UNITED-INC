@@ -35,10 +35,13 @@
   ${\color{#D9D8DF}\space ▷ \space im \space normally \space offtab \space and \space late \space to \space reply \space to \space messages \space (like \space whispers \space and \space such) }$
 </p>
 <p align="center">
-  ${\color{#D9D8DF}\space ▷ \space <16 \space iwec \space unless \space close \space friend }$
+  ${\color{#D9D8DF}\space ▷ \space under \space 16 \space iwec \space unless \space close \space friend }$
 </p>
 <p align="center">
-  ${\color{#D9D8DF}\space ▷ \space fandom \space c * h \space freely! }$
+  ${\color{#D9D8DF}\space ▷ \space fandom/anyone \space c * h \space freely! }$
+</p>
+<p align="center">
+  ${\color{#D9D8DF}\space ▷ \space proship/profiction/darkship \space = \space dni/blocked \space (other \space than \space that, \space i \space block \space freely) }$
 </p>
 
 <img src="https://64.media.tumblr.com/2c86d441d0eef75239e9bc00238e9ea2/9912e86be0a4702f-37/s2048x3072/2e6851bb8cb9a542bb1d8703f587a15bdfbe3330.pnj">
