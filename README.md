@@ -9,6 +9,9 @@
 <p align="center">
   pc / laptop recommended
 </p>
+<p align="center">
+  DISCLAIMER: NONE OF THE GRAPHICS OR ART HERE IS MADE BY ME AND I SIMPLY GOT THEM OFF OF TUMBLR, CREDITS TO THE GRAPHIC MAKERS/ARTISTS
+</p>
 
 
 <div align="center">    
@@ -60,11 +63,20 @@
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ♡ \space i \space love \space u \space tom \space and \space tord, \space pls \space kiss \space already }$
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ux257o25gaikhb3j6fnwwchp7y&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121118&interchange=false&profanity=false&hide_remaster=false&bar_color=9389c2&bar_color_cover=false&mode=dark">
   </a>
+</p>
+
+<p align="center">
+  ${\color{#efe6e6}\space ⟡ \space cuptoast \space mini \space pork \space soda \space animatic \space as \space a \space GIF!! }$
+</p>
+
+<p align="center">
+<img src="https://64.media.tumblr.com/771594b3f1b812d0e054389866139f11/763e5067029c2ff0-f3/s250x400/b4ea75c7c52406785588a01760b637f8e5904f91.gifv">
 </p>
 
 <p align="center">  
