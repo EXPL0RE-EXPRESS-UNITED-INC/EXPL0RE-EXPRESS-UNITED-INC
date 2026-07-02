@@ -1,6 +1,6 @@
-<img src="https://64.media.tumblr.com/22121a69417e4e2e2d107c988358b082/9912e86be0a4702f-69/s2048x3072/5690dd33d4175e7e87389ce945e14c35322fa522.pnj">
+<img src="https://64.media.tumblr.com/c14603f3c48dada44d6d9fa6142d972f/85c3572f47dc8ece-64/s2048x3072/82ba25f1dcb58cfd26bfd8fe8d196f34d906f371.pnj">
 <p align="center">
-  <img src="https://64.media.tumblr.com/9379a2a559c01f3fb8f02cf9d66e0c6b/c7139e7224b4838c-ed/s2048x3072/b6e0d655e6b91567b513512c1b9fa7bf5a94af86.pnj">
+  <img src="https://64.media.tumblr.com/53f97ad8381d036aa61aa4cfa0485688/85c3572f47dc8ece-f8/s2048x3072/fd4b76c7b1112b6d7a655c8a126a81da0f508b86.pnj">
 </p>
 
 <p align="center">
@@ -12,49 +12,54 @@
 
 
 <div align="center">    
-  <img src="https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&label=　save+the+stars　&color=9389C2&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&label=　the+red+army　&color=red&style=for-the-badge" alt="Profile views"/>
 </div>
 
 <p align="center">
-  <img width="200" height="125" src="https://64.media.tumblr.com/18290f6c288539265df733283b4a626f/7c24e4c0719c7a85-a9/s2048x3072/497a828eb811e3cab2f958afd0bf3e4af7cbf78e.pnj">
-</p>
-<p align="center">
-  <img width="300" height="300" src="https://64.media.tumblr.com/d040eebc26cc18511e909703e86df6bc/90612bc0eacceae9-ac/s1280x1920/65c5f94cc145308f0499123e622bcc6f1b57edf2.pnj">
+  <img width="200" height="125" src="https://64.media.tumblr.com/a5ee19ba78e256c617a41f3038c20092/851a1ef7d7001340-96/s100x200/e92b7d3425b60f997a022ad473b0902f49e086d9.gifv">
 </p>
 
 <p align="center">
-  ${\color{#D9D8DF}\space ▷ \space funny \space osdd-1b \space system \space who \space likes \space to \space lurk \space on \space ponytown }$
-</p>
-<p align="center">
-  ${\color{#D9D8DF}\space ▷ \space ask \space who's \space fronting! }$
-</p>
-<p align="center">
-  ${\color{#D9D8DF}\space ▷ \space w2i \space / \space iwc \space always, \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
-</p>
-<p align="center">
-  ${\color{#D9D8DF}\space ▷ \space im \space normally \space offtab \space and \space late \space to \space reply \space to \space messages \space (like \space whispers \space and \space such) }$
-</p>
-<p align="center">
-  ${\color{#D9D8DF}\space ▷ \space under \space 16 \space iwec \space unless \space close \space friend }$
-</p>
-<p align="center">
-  ${\color{#D9D8DF}\space ▷ \space fandom/anyone \space c * h \space freely! }$
-</p>
-<p align="center">
-  ${\color{#D9D8DF}\space ▷ \space proship/profiction/darkship \space = \space dni/blocked \space (other \space than \space that, \space i \space block \space freely) }$
-</p>
-
-<img src="https://64.media.tumblr.com/2c86d441d0eef75239e9bc00238e9ea2/9912e86be0a4702f-37/s2048x3072/2e6851bb8cb9a542bb1d8703f587a15bdfbe3330.pnj">
-
-<p align="center">
-  <img alt="image" src="https://github.com/user-attachments/assets/b06f6e7e-d1e9-407a-8c2b-a26ce42b2f52" />
+<img src="https://64.media.tumblr.com/f3145eeb58fab6b58e04634cfb02e8f2/bece6d6bffe5ebac-90/s250x400/f2c587309a8fcdb1cf4b67f7dc000fabd3ed9b88.gifv">
 </p>
 
 <p align="center">
-  ${\color{#D9D8DF}\space ♡ \space me \space and \space who?? }$ <img src="https://atabook.org/images/smileys/blush.gif"><img src="https://atabook.org/images/smileys/blush.gif"><p>
+  <img src="https://64.media.tumblr.com/bcfdb7714a1f8a9a8cb6483c9270ca48/b35493199bf057ad-b6/s500x750/08cca660eabe08d36cdfef82bf698f5961a5c437.pnj">
+</p>
+
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space funny \space osdd-1b \space system \space who \space likes \space to \space lurk \space on \space ponytown }$
 </p>
 <p align="center">
-  ${\color{#D9D8DF}\space ♡ \space i \space love \space u \space simon \space and \space grace, \space pls \space kiss \space already }$
+  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting! }$
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space w2i \space / \space iwc \space always, \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space im \space normally \space offtab \space and \space late \space to \space reply \space to \space messages \space (like \space whispers \space and \space such) }$
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space under \space 16 \space iwec \space unless \space close \space friend }$
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space fandom/anyone \space c * h \space freely! }$
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space proship/profiction/darkship \space = \space dni/blocked \space (other \space than \space that, \space i \space block \space freely) }$
+</p>
+
+<img src="https://64.media.tumblr.com/83894a5c84c2f3fa849fbcfc6a580b75/08d7c0a77000d408-11/s2048x3072/7aacfd7f02ed6ce9d0b38475f6e46d28008b3576.pnj">
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6e82b2c-67df-4492-96c0-0d9732b97f4c" />
+</p>
+
+<p align="center">
+  ${\color{#efe6e6}\space ♡ \space me \space and \space who?? }$ <img src="https://atabook.org/images/smileys/blush.gif"><img src="https://atabook.org/images/smileys/blush.gif"><p>
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ♡ \space i \space love \space u \space tom \space and \space tord, \space pls \space kiss \space already }$
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -62,22 +67,8 @@
   </a>
 </p>
 
-<p align="center">
-  graphic creds (all on tumblr) :
-  <p align="center">  
-  <img src="https://64.media.tumblr.com/0d286996688c0b43e249983ec316f05b/017a0364a08995cd-e0/s250x400/125d6d4dafd4bffd8f5ca3d017d28c8b0bf66e65.pnj">
-<p align="center">
-  @br4ineaterz (bloodymary graphics)
-<p align="center">
-  @stamprequestie (grace stamp)
-<p align="center">
-  @omi-resources (dividers)
-<p align="center">
-  @the-graphics-ace (moon graphic)
-</p>
-
 <p align="center">  
-  <img src="https://64.media.tumblr.com/4b296bfc5d00965d5c843fc3fd639177/c7139e7224b4838c-93/s2048x3072/468ef3536f43f6f61ec82cd4f9bc79316d342d76.pnj">
+  <img src="https://64.media.tumblr.com/53f97ad8381d036aa61aa4cfa0485688/85c3572f47dc8ece-f8/s2048x3072/fd4b76c7b1112b6d7a655c8a126a81da0f508b86.pnj">
 </p>
-<img src="https://64.media.tumblr.com/22121a69417e4e2e2d107c988358b082/9912e86be0a4702f-69/s2048x3072/5690dd33d4175e7e87389ce945e14c35322fa522.pnj">
+<img src="https://64.media.tumblr.com/c14603f3c48dada44d6d9fa6142d972f/85c3572f47dc8ece-64/s2048x3072/82ba25f1dcb58cfd26bfd8fe8d196f34d906f371.pnj">
 
