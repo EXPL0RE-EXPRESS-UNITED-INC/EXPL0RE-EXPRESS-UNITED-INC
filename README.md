@@ -7,10 +7,10 @@
   unreadable on mobile, sorry mobile users!!!!
 </p>
 <p align="center">
-  pc / laptop recommended
+  pc / laptop view heavily recommended
 </p>
 <p align="center">
-  DISCLAIMER: NONE OF THE GRAPHICS OR ART HERE IS MADE BY ME AND I SIMPLY GOT THEM OFF OF TUMBLR, CREDITS TO THE GRAPHIC MAKERS/ARTISTS
+  DISCLAIMER: ALL of the graphics/art here was NOT MADE BY ME, and i got them off of tumblr! CREDITS TO THE GRAPHIC MAKERS/ARTISTS ^_^
 </p>
 
 
