@@ -34,7 +34,7 @@
   ${\color{#efe6e6}\space ▷ \space funny \space osdd-1b \space system \space who \space likes \space to \space lurk \space on \space ponytown }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting! }$
+  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting! \space (skin \space is \space usually \space who's \space fronting, \space but \space still \space ask) }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space w2i \space / \space iwc \space always, \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
