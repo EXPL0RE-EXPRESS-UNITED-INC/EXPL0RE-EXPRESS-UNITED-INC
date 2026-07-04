@@ -9,9 +9,6 @@
 <p align="center">
   pc / laptop view heavily recommended
 </p>
-<p align="center">
-  DISCLAIMER: ALL of the graphics/art here was NOT MADE BY ME, and i got them off of tumblr! CREDITS TO THE GRAPHIC MAKERS/ARTISTS ^_^
-</p>
 
 
 <div align="center">    
@@ -29,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img width="300" height="300" src="https://64.media.tumblr.com/1be4b1faf08c2902b877b02af6210424/d1c7c6716bd60f2c-2f/s1280x1920/c010e8f4d6afb496f5ca398246a60714453154b1.pnj">
+<img src="https://github.com/user-attachments/assets/42467535-cc80-4f9a-9b34-0ad6a4b2da25" />
 </p>
 
 <p align="center">
@@ -85,6 +82,10 @@
 
 <p align="center">
 <img src="https://64.media.tumblr.com/771594b3f1b812d0e054389866139f11/763e5067029c2ff0-f3/s250x400/b4ea75c7c52406785588a01760b637f8e5904f91.gifv">
+</p>
+
+<p align="center">
+creds to all the graphic makers and artists, none of the graphics/art here is made by me
 </p>
 
 <p align="center">  
