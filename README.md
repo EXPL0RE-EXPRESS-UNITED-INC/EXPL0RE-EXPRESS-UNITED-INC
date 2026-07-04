@@ -45,7 +45,7 @@
   ${\color{#efe6e6}\space ▷ \space under \space 17 \space iwec \space unless \space close \space friend, \space i'm \space bodily \space 18!! }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space fandom/anyone \space c * h \space freely! }$
+  ${\color{#efe6e6}\space ▷ \space fandom/anyone \space c * h \space freely!!! \space i \space need \space friends \space plz }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH }$
