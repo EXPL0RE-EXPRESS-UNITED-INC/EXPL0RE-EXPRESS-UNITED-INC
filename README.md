@@ -51,7 +51,7 @@
   ${\color{#efe6e6}\space ▷ \space inspo \space is \space ok, \space do \space not \space copy \space my \space skins }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space proship/profiction/darkship \space = \space dni/blocked \space (other \space than \space that, \space i \space block \space freely) }$
+  ${\color{#efe6e6}\space ▷ \space proship/darkship \space = \space dni/blocked \space (other \space than \space that, \space i \space block \space freely) }$
 </p>
 
 <img src="https://64.media.tumblr.com/83894a5c84c2f3fa849fbcfc6a580b75/08d7c0a77000d408-11/s2048x3072/7aacfd7f02ed6ce9d0b38475f6e46d28008b3576.pnj">
