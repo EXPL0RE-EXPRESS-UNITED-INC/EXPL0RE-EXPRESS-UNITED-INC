@@ -24,10 +24,12 @@
 
 <p align="center">
 <img src="https://64.media.tumblr.com/f3145eeb58fab6b58e04634cfb02e8f2/bece6d6bffe5ebac-90/s250x400/f2c587309a8fcdb1cf4b67f7dc000fabd3ed9b88.gifv">
+  <img src="https://64.media.tumblr.com/80845012f49530ed20bfb45824200444/f863334bc4fcc945-19/s250x400/39ddfad194330a5546c74bf5343c59ce3e9a53e4.gifv">
+  <img src="https://64.media.tumblr.com/439f702913c638afed3053a7d205874e/337e3afb452dba8c-46/s250x400/065729d66c446f8a20aa6fc8fa5a8baaacfc5342.gifv">
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/bcfdb7714a1f8a9a8cb6483c9270ca48/b35493199bf057ad-b6/s500x750/08cca660eabe08d36cdfef82bf698f5961a5c437.pnj">
+  <img width="300" height="300" src="https://64.media.tumblr.com/1be4b1faf08c2902b877b02af6210424/d1c7c6716bd60f2c-2f/s1280x1920/c010e8f4d6afb496f5ca398246a60714453154b1.pnj">
 </p>
 
 <p align="center">
@@ -47,6 +49,9 @@
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space fandom/anyone \space c * h \space freely! }$
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space inspo \space is \space ok, \space do \space not \space copy \space my \space skins }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space proship/profiction/darkship \space = \space dni/blocked \space (other \space than \space that, \space i \space block \space freely) }$
