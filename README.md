@@ -48,6 +48,9 @@
   ${\color{#efe6e6}\space ▷ \space fandom/anyone \space c * h \space freely! }$
 </p>
 <p align="center">
+  ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH }$
+</p>
+<p align="center">
   ${\color{#efe6e6}\space ▷ \space inspo \space is \space ok, \space do \space not \space copy \space my \space skins }$
 </p>
 <p align="center">
