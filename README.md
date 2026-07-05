@@ -33,25 +33,28 @@
   ${\color{#efe6e6}\space ▷ \space funny \space osdd-1b \space system \space who \space likes \space to \space lurk \space on \space ponytown }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting! \space (skin \space is \space usually \space who's \space fronting, \space but \space still \space ask) }$
+  ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space w2i \space / \space iwc \space always, \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
+  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting! \space (skin \space is \space usually \space who's \space fronting, \space but \space please \space still \space ask, \space avoid \space assuming) }$
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space w2i/iwc \space always, \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space im \space normally \space offtab \space and \space late \space to \space reply \space to \space messages \space (like \space whispers \space and \space such) }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space under \space 17 \space iwec \space unless \space close \space friend, \space i'm \space bodily \space 18!! }$
+  ${\color{#efe6e6}\space ▷ \space under \space 17 \space iwec \space unless \space close \space friend, \space we're \space bodily \space 18 }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space fandom/anyone \space can \space c * h \space freely!!! \space i \space need \space friends \space plz }$
+  ${\color{#efe6e6}\space ▷ \space fandom/anyone \space can \space c * h \space freely!!! \space c * h \space encouraged \space if \space friend, \space i \space need \space more \space friends \space lowkey }$
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space multishipper, \space idm \space cuddling \space with \space ships \space as \space long \space as \space it's \space appropiate. \space :D }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH \space (🇺🇸🇳🇴🇵🇭) }$
-</p>
-<p align="center">
-  ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space ask \space 4 \space inspo, \space do \space not \space copy \space my \space skins \space plz }$
