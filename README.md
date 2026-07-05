@@ -48,7 +48,7 @@
   ${\color{#efe6e6}\space ▷ \space fandom/anyone \space can \space c * h \space freely!!! \space i \space need \space friends \space plz }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH \space 🇺🇸/🇳🇴/🇵🇭 }$
+  ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH \space (🇺🇸🇳🇴🇵🇭) }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD }$
