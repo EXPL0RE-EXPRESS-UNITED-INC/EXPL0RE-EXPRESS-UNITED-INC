@@ -45,16 +45,16 @@
   ${\color{#efe6e6}\space ▷ \space under \space 17 \space iwec \space unless \space close \space friend, \space i'm \space bodily \space 18!! }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space fandom/anyone \space c * h \space freely!!! \space i \space need \space friends \space plz }$
+  ${\color{#efe6e6}\space ▷ \space fandom/anyone \space can \space c * h \space freely!!! \space i \space need \space friends \space plz }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH }$
+  ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH \space 🇺🇸/🇳🇴/🇵🇭 }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space inspo \space is \space ok, \space do \space not \space copy \space my \space skins }$
+  ${\color{#efe6e6}\space ▷ \space ask \space 4 \space inspo, \space do \space not \space copy \space my \space skins \space plz }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space proship/darkship \space = \space dni/blocked \space (other \space than \space that, \space i \space block \space freely) }$
