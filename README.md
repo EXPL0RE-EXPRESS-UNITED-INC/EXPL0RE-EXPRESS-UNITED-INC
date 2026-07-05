@@ -73,7 +73,7 @@
   ${\color{#efe6e6}\space ♡ \space i \space love \space u \space tom \space and \space tord, \space pls \space kiss \space already }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ♡ \space diehard \space dark/POC \space tom \space believer }$
+  ${\color{#efe6e6}\space ♡ \space diehard \space black/POC \space tom \space believer }$
 </p>
 
 <p align="center">
