@@ -7,7 +7,7 @@
   unreadable on mobile, sorry mobile users!!!!
 </p>
 <p align="center">
-  pc / laptop view heavily recommended
+best viewed on desktop :)
 </p>
 
 
