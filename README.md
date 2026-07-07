@@ -33,7 +33,7 @@ best viewed on desktop :)
   ${\color{#efe6e6}\space ▷ \space funny \space osdd-1b \space system \space who \space likes \space to \space lurk \space on \space ponytown }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD }$
+  ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD, \space C-PTSD }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting! \space (skin \space is \space usually \space who's \space fronting, \space but \space please \space still \space ask, \space avoid \space assuming) }$
@@ -54,7 +54,7 @@ best viewed on desktop :)
   ${\color{#efe6e6}\space ▷ \space multishipper, \space idm \space cuddling \space with \space ships \space as \space long \space as \space it's \space appropiate. \space :D }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH \space (🇺🇸🇳🇴🇵🇭) }$
+  ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH \space - \space ENG/NOR \space preferred \space (stick \space with \space one \space language \space when \space communicating \space with \space me) }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space ask \space 4 \space inspo, \space do \space not \space copy \space my \space skins \space plz }$
