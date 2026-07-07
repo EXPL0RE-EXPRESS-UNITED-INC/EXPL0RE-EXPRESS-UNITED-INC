@@ -51,6 +51,9 @@ best viewed on desktop :)
   ${\color{#efe6e6}\space ▷ \space fandom/anyone \space can \space c * h \space freely!!! \space c * h \space encouraged \space if \space friend, \space i \space need \space more \space friends \space lowkey }$
 </p>
 <p align="center">
+  ${\color{#efe6e6}\space ▷ \space if \space im \space cuddling/hiding \space behind \space you \space i'm \space probably \space in \space a \space bad \space mood }$
+</p>
+<p align="center">
   ${\color{#efe6e6}\space ▷ \space multishipper, \space idm \space cuddling \space with \space ships \space as \space long \space as \space it's \space appropiate. \space :D }$
 </p>
 <p align="center">
