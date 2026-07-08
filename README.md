@@ -4,15 +4,11 @@
 </p>
 
 <p align="center">
-  unreadable on mobile, sorry mobile users!!!!
+meant for desktop view (sorry mobile users)
 </p>
-<p align="center">
-best viewed on desktop :)
-</p>
-
 
 <div align="center">    
-  <img src="https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&label=　the+red+army　&color=red&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&label=　the+red+army　&color=C40001&style=for-the-badge" alt="Profile views"/>
 </div>
 
 <p align="center">
@@ -25,21 +21,27 @@ best viewed on desktop :)
   <img src="https://64.media.tumblr.com/439f702913c638afed3053a7d205874e/337e3afb452dba8c-46/s250x400/065729d66c446f8a20aa6fc8fa5a8baaacfc5342.gifv">
 </p>
 
+
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/42467535-cc80-4f9a-9b34-0ad6a4b2da25" />
 </p>
 
-<p align="center">
-  ${\color{#efe6e6}\space ▷ \space funny \space osdd-1b \space system \space who \space likes \space to \space lurk \space on \space ponytown }$
+<details align="center">
+<summary> ${\color{#efe6e6}\space 🥓 \space about \space me}$ </summary>
+
+
+  <p align="center">
+  ${\color{#efe6e6}\space ▷ \space funny \space osdd-1b \space system \space that \space likes \space to \space lurk \space on \space ponytown }$ <img src="https://atabook.org/images/smileys/smile.gif">
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD, \space C-PTSD }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting! \space (skin \space is \space usually \space who's \space fronting, \space but \space please \space still \space ask, \space please \space avoid \space assuming) }$
+  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting \space (skin \space is \space usually \space who's \space fronting, \space but \space please \space still \space ask, \space \space avoid \space assuming.) }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space "me" \space in \space pt \space name \space = \space current \space fronter }$
+  ${\color{#efe6e6}\space ▷ \space ask \space 4 \space plural \space star }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space w2i/iwc \space always, \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
@@ -54,10 +56,10 @@ best viewed on desktop :)
   ${\color{#efe6e6}\space ▷ \space fandom/anyone \space can \space c * h \space freely!!! \space c * h \space encouraged \space if \space friend, \space i \space need \space more \space friends \space lowkey }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space if \space im \space cuddling/hiding \space behind \space you \space i'm \space probably \space in \space a \space bad \space mood }$
+  ${\color{#efe6e6}\space ▷ \space if \space im \space cuddling/hiding \space behind \space you \space i'm \space probably \space in \space a \space bad \space mood \space and \space just \space dont \space want \space any \space interaction. }$ <img src="https://atabook.org/images/smileys/frown.gif">
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space multishipper, \space idm \space cuddling \space with \space ships \space as \space long \space as \space it's \space appropiate. \space :D }$
+  ${\color{#efe6e6}\space ▷ \space multishipper, \space idm \space cuddling \space with \space ships \space as \space long \space as \space it's \space appropiate \space or \space if \space i \space fw \space it. }$ <img src="https://atabook.org/images/smileys/cheers.gif">
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH \space - \space ENG/NOR \space preferred \space (stick \space with \space one \space language \space when \space communicating \space with \space me) }$
@@ -68,8 +70,9 @@ best viewed on desktop :)
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space proship/darkship \space = \space dni/blocked \space (other \space than \space that, \space i \space block \space freely) }$
 </p>
+</details>
 
-<img src="https://64.media.tumblr.com/83894a5c84c2f3fa849fbcfc6a580b75/08d7c0a77000d408-11/s2048x3072/7aacfd7f02ed6ce9d0b38475f6e46d28008b3576.pnj">
+<img src="https://64.media.tumblr.com/efd034b79841ce3b6b793e86700e7e2b/d4b79136d0f51ef1-4e/s2048x3072/8731d20ac80bccf7305cd8369aeae86f6c6e7e97.pnj">
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b6e82b2c-67df-4492-96c0-0d9732b97f4c" />
@@ -79,10 +82,10 @@ best viewed on desktop :)
   ${\color{#efe6e6}\space ♡ \space me \space and \space who?? }$ <img src="https://atabook.org/images/smileys/blush.gif"><img src="https://atabook.org/images/smileys/blush.gif"><p>
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ♡ \space i \space love \space u \space tom \space and \space tord, \space pls \space kiss \space already }$
+  ${\color{#efe6e6}\space ♡ \space i \space love \space u \space SO \space MUCH \space tom \space and \space tord, \space pls \space kiss \space already }$ <img src="https://atabook.org/images/smileys/cry.gif">
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ♡ \space diehard \space black/POC \space and \space vitiligo \space tom \space believer }$
+  ${\color{#efe6e6}\space ♡ \space diehard \space black/POC \space and \space vitiligo \space tom \space believer }$ <img src="https://atabook.org/images/smileys/biggrin.gif">
 </p>
 
 <p align="center">
@@ -100,7 +103,7 @@ best viewed on desktop :)
 </p>
 
 <p align="center">
-creds to all the graphic makers and artists, none of the graphics/art here is made by me
+creds to all the graphic makers and artists, none of the graphics/art here is made by me! i simply got em off tumblr <img src="https://atabook.org/images/smileys/perfect.gif">
 </p>
 
 <p align="center">  
