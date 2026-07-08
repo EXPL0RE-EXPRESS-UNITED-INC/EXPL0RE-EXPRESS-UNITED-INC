@@ -36,7 +36,10 @@ best viewed on desktop :)
   ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD, \space C-PTSD }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting! \space (skin \space is \space usually \space who's \space fronting, \space but \space please \space still \space ask, \space avoid \space assuming) }$
+  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting! \space (skin \space is \space usually \space who's \space fronting, \space but \space please \space still \space ask, \space please \space avoid \space assuming) }$
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space "me" \space in \space pt \space name \space = \space current \space fronter }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space w2i/iwc \space always, \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
