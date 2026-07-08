@@ -39,10 +39,6 @@ meant for desktop view (sorry mobile users)
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting \space (skin \space is \space usually \space who's \space fronting, \space but \space please \space still \space ask, \space \space avoid \space assuming.) }$
-</p>
-<p align="center">
-  ${\color{#efe6e6}\space ▷ \space ask \space 4 \space plural \space star }$
-</p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space w2i/iwc \space always, \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
 </p>
@@ -50,13 +46,19 @@ meant for desktop view (sorry mobile users)
   ${\color{#efe6e6}\space ▷ \space im \space normally \space offtab \space and \space late \space to \space reply \space to \space messages \space (like \space whispers \space and \space such) }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space under \space 17 \space iwec \space unless \space close \space friend, \space we're \space bodily \space 18 }$
+  ${\color{#efe6e6}\space ▷ \space under \space 17 \space iwec/dni \space unless \space close \space friend, \space we're \space bodily \space 18 }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space fandom/anyone \space can \space c * h \space freely!!! \space c * h \space encouraged \space if \space friend, \space i \space need \space more \space friends \space lowkey }$
+  ${\color{#efe6e6}\space ▷ \space no \space matter \space what \space my \space interaction \space status \space is, \space fandom/anyone \space can \space c * h \space freely!!! \space c * h \space encouraged \space if \space we're \space moots/friends }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space if \space im \space cuddling/hiding \space behind \space you \space i'm \space probably \space in \space a \space bad \space mood \space and \space just \space dont \space want \space any \space interaction. }$ <img src="https://atabook.org/images/smileys/frown.gif">
+  ${\color{#efe6e6}\space ▷ \space i'm \space usually \space found \space sitting \space by/cuddling \space with/hiding \space behind }$ ${\color{#2989E7}\space Bluenatic }$ ${\color{#efe6e6}\space (my \space friend)! \space if \space i \space am, \space feel \space free \space to \space still \space sit/cuddle \space with \space me }$
+  <p align="center">
+  ${\color{#efe6e6}\space ▷ \space as \space a \space system, \space we're \space collectively \space shy. \space PLZ \space for \space the \space love \space of \space god \space do \space not \space expect \space us \space to \space interact \space first \space or \space start \space conversation! }$ <img src="https://atabook.org/images/smileys/dead.gif">
+</p>
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space if \space im \space cuddling/hiding \space behind \space you \space or \ space sm1 \space else, \space i'm \space probably \space in \space a \space bad \space mood \space and \space just \space dont \space want \space any \space interaction. }$ <img src="https://atabook.org/images/smileys/frown.gif">
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space multishipper, \space idm \space cuddling \space with \space ships \space as \space long \space as \space it's \space appropiate \space or \space if \space i \space fw \space it. }$ <img src="https://atabook.org/images/smileys/cheers.gif">
