@@ -38,7 +38,7 @@ meant for desktop view (sorry mobile users)
   ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD, \space C-PTSD }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting \space (skin \space is \space usually \space who's \space fronting, \space but \space please \space still \space ask, \space \space avoid \space assuming.) }$
+  ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting \space or \space check \space my \space guns.lol \space to \space see \space who's \space in \space front }$
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space w2i/iwc \space always, \space unless \space name \space says \space so }$ <img src="https://atabook.org/images/smileys/look.gif">
 </p>
