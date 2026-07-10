@@ -58,7 +58,7 @@ meant for desktop view (sorry mobile users)
 </p>
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space if \space im \space cuddling/hiding \space behind \space you \space or \ space sm1 \space else, \space i'm \space probably \space in \space a \space bad \space mood \space and \space just \space dont \space want \space any \space interaction. }$ <img src="https://atabook.org/images/smileys/frown.gif">
+  ${\color{#efe6e6}\space ▷ \space if \space im \space cuddling/hiding \space behind \space you \space or \space sm1 \space else, \space i'm \space probably \space in \space a \space bad \space mood \space and \space just \space dont \space want \space any \space interaction. }$ <img src="https://atabook.org/images/smileys/frown.gif">
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space multishipper, \space idm \space cuddling \space with \space ships \space as \space long \space as \space it's \space appropiate \space or \space if \space i \space fw \space it. }$ <img src="https://atabook.org/images/smileys/cheers.gif">
