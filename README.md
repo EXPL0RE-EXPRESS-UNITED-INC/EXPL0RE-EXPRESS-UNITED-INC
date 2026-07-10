@@ -67,7 +67,10 @@ meant for desktop view (sorry mobile users)
   ${\color{#efe6e6}\space ▷ \space ENG/NOR/PH \space - \space ENG/NOR \space preferred \space (stick \space with \space one \space language \space when \space communicating \space with \space me) }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space ask \space 4 \space inspo, \space do \space not \space copy \space my \space skins \space plz }$
+  ${\color{#efe6e6}\space ▷ \space inspo \space is \space overall \space ok!, \space however \space do \space not \space copy \space my \space skins \space i \space WILL \space call \space you \space out }$
+</p>
+<p align="center">
+  ${\color{#efe6e6}\space ▷ \space i \space might \space take \space inspo \space from \space others \space sometimes, \space if \space ur \space not \space ok \space with \space that \space then \space just \space lmk \space by \space whispering \space me! }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space proship/darkship \space = \space dni/blocked \space (other \space than \space that, \space i \space block \space freely) }$
