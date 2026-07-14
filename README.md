@@ -35,7 +35,7 @@ meant for and only readable on desktop view (sorry mobile users)
   ${\color{#efe6e6}\space ▷ \space funny \space osdd-1b \space system \space that \space likes \space to \space lurk \space on \space ponytown }$ <img src="https://atabook.org/images/smileys/smile.gif">
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD, \space C-PTSD \space + \space Chronic \space pain \space syndrome, \space chronic \space migraines }$
+  ${\color{#efe6e6}\space ▷ \space OSDD-1B, \space AUDHD, \space GAD, \space MDD, \space C-PTSD \space + \space Chronic \space pain \space syndrome, \space chronic \space migraines }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space ask \space who's \space fronting \space or \space check \space my \space guns.lol \space to \space see \space who's \space in \space front }$
