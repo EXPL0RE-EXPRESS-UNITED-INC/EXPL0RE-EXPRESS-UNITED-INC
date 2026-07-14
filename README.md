@@ -49,7 +49,7 @@ meant for and only readable on desktop view (sorry mobile users)
   ${\color{#efe6e6}\space ▷ \space under \space 17 \space = \space iwec/dni \space unless \space close \space friend, \space we're \space bodily \space 18 }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space no \space matter \space what \space my \space interaction \space status \space is, \space fandom/anyone \space can \space c * h \space freely!!! \space c * h \space encouraged \space if \space we're \space moots/friends }$
+  ${\color{#efe6e6}\space ▷ \space c * h \space freely \space no \space matter \space my \space int \space status!!! \space c * h \space encouraged \space if \space we're \space moots/friends, \space cudcomf }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space i'm \space usually \space found \space sitting \space by/cuddling \space with/hiding \space behind }$ ${\color{#2989E7}\space Bluenatic }$ ${\color{#efe6e6}\space (my \space friend)! \space if \space i \space am, \space feel \space free \space to \space still \space sit/cuddle \space with \space me }$
