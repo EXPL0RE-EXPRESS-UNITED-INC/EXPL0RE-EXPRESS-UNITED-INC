@@ -46,7 +46,7 @@ meant for and only readable on desktop view (sorry mobile users)
   ${\color{#efe6e6}\space ▷ \space im \space normally \space offtab \space and \space late \space to \space reply \space to \space messages \space (like \space whispers \space and \space such) }$
 </p>
 <p align="center">
-  ${\color{#efe6e6}\space ▷ \space under \space 17 \space = \space iwec/dni \space unless \space close \space friend, \space we're \space bodily \space 18 }$
+  ${\color{#efe6e6}\space ▷ \space under \space 17 \space = \space iwec/dni \space unless \space close \space friend, \space we're \space bodily \space 18! \space please \space act \space APPROPIATELY \space with \space us  }$
 </p>
 <p align="center">
   ${\color{#efe6e6}\space ▷ \space c * h \space freely \space no \space matter \space my \space int \space status!!! \space c * h \space encouraged \space if \space we're \space moots/friends, \space cudcomf }$
