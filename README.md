@@ -6,6 +6,9 @@
 <p align="center">
 meant for and only readable on desktop view (sorry mobile users)
 </p>
+<p align="center">
+mobile version : https://github.com/EXPL0RE-EXPRESS-UNITED-INC/mobile-version
+</p>
 
 <div align="center">    
   <img src="https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&label=　the+red+army　&color=C40001&style=for-the-badge" alt="Profile views"/>
