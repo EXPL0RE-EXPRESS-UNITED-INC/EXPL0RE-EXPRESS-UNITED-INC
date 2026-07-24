@@ -1,10 +1,10 @@
 <img src="https://64.media.tumblr.com/c5f7d1687429233b674c41f39b667fcd/b702b11d7128dc23-84/s1280x1920/9c89d520c9bb21beb574f4da31c9fdcfe65a4f42.pnj">
 </p>
 <p align="center">
-meant for and only readable on desktop view (sorry mobile users)
+meant for desktop view
 </p>
 <p align="center">
-mobile version is under temporary reconstruction!
+<a href="https://github.com/EXPL0RE-EXPRESS-UNITED-INC/mobile-version" target="_blank">readable/no font version</a>
 </p>
 
 <div align="center">    
