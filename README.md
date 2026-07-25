@@ -107,6 +107,11 @@ meant for desktop view
 creds to all the graphic makers and artists, none of the graphics/art here is made by me! i simply got em off tumblr <img src="https://atabook.org/images/smileys/perfect.gif">
 </p>
 
+<p align="center">
+<img width="532.5" height="61" alt="image" src="https://github.com/user-attachments/assets/d4605950-f16e-48aa-96e6-91f8ff7f8ed6" />
+</p>
+
+
 <p align="center">  
   <img src="https://64.media.tumblr.com/34e6fe91480b156a2917bf0cd6f6d339/b702b11d7128dc23-f4/s1280x1920/8e747d022c6f87a5b4bc7b9b5dbc4afdbcad1758.pnj">
 </p>
