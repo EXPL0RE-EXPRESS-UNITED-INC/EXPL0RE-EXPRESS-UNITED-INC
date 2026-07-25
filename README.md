@@ -4,7 +4,7 @@
 meant for desktop view
 </p>
 <p align="center">
-<a href="https://github.com/EXPL0RE-EXPRESS-UNITED-INC/mobile-version" target="_blank">readable/no font version</a>
+<a href="https://github.com/EXPL0RE-EXPRESS-UNITED-INC/no-font" target="_blank">readable/no font version</a>
 </p>
 
 <div align="center">    
