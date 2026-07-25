@@ -108,6 +108,9 @@ creds to all the graphic makers and artists, none of the graphics/art here is ma
 </p>
 
 <p align="center">
+<img src="https://64.media.tumblr.com/160ce6489212f03026d150724b4a0fdf/7eadd5ae0a559109-f8/s1280x1920/c01e5ee7b326674002e4b87628ac812676fdeeaf.pnj">
+</p>
+<p align="center">
 <img width="532.5" height="61" alt="image" src="https://github.com/user-attachments/assets/d4605950-f16e-48aa-96e6-91f8ff7f8ed6" />
 </p>
 
