@@ -53,7 +53,7 @@ meant for desktop view
   ${\color{#e3e8f7}\space ▷ \space im \space normally \space offtab \space and \space late \space to \space reply \space to \space messages \space (like \space whispers \space and \space such) }$
 </p>
 <p align="center">
-  ${\color{#e3e8f7}\space ▷ \space under \space 17 \space = \space iwec/dni \space unless \space close \space friend, \space we're \space bodily \space 18! \space please \space act \space APPROPIATELY \space around \space us  }$
+  ${\color{#e3e8f7}\space ▷ \space under \space 17 \space = \space iwec/dni \space unless \space close \space friend, \space we're \space bodily \space 19! \space please \space act \space APPROPIATELY \space around \space us  }$
 </p>
 <p align="center">
   ${\color{#e3e8f7}\space ▷ \space c * h \space freely \space no \space matter \space my \space int \space status!!! \space c * h \space encouraged \space if \space we're \space moots/friends, \space cudcomf }$
