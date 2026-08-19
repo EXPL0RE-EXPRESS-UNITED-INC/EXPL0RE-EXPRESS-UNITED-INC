@@ -7,6 +7,17 @@ meant for desktop view
 <a href="https://github.com/EXPL0RE-EXPRESS-UNITED-INC/no-font" target="_blank">readable/no font version</a>
 </p>
 
+<p align="center">
+<img src="https://64.media.tumblr.com/160ce6489212f03026d150724b4a0fdf/7eadd5ae0a559109-f8/s1280x1920/c01e5ee7b326674002e4b87628ac812676fdeeaf.pnj">
+</p>
+
+<p align="center">
+  i'm going to act super cute...
+</p>
+<p align="center">
+  <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/55ca607f-01a5-470d-b22a-26ae3d6e1d01" /> 
+</p>
+
 <div align="center">    
   <img src="https://komarev.com/ghpvc/?username=EXPL0RE-EXPRESS-UNITED-INC&label=　the+room+where+it+happens　&color=00119A&style=for-the-badge" alt="Profile views"/>
 </div>
@@ -116,6 +127,7 @@ creds to all the graphic makers and artists, none of the graphics/art here is ma
 <p align="center">
 <img src="https://64.media.tumblr.com/160ce6489212f03026d150724b4a0fdf/7eadd5ae0a559109-f8/s1280x1920/c01e5ee7b326674002e4b87628ac812676fdeeaf.pnj">
 </p>
+
 <p align="center">
   go check out <a href="https://github.com/pt-walk-of-fame" target="_blank">@pt-walk-of-fame</a> !!!
 </p>
