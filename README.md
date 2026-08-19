@@ -15,7 +15,7 @@ meant for desktop view
   i'm going to act super cute...
 </p>
 <p align="center">
-  <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/55ca607f-01a5-470d-b22a-26ae3d6e1d01" /> 
+  <img src="https://github.com/user-attachments/assets/55ca607f-01a5-470d-b22a-26ae3d6e1d01" /> 
 </p>
 
 <div align="center">    
