@@ -43,10 +43,11 @@ meant for desktop view
 <summary> ${\color{#0457cc}\space 🪶 \space I'm \space willing \space to \space wait \space for \space it. }$ </summary>
 
   <p align="center">
-    <img width="31" height="22" alt="image" src="https://github.com/user-attachments/assets/7c233adc-8dbb-45fc-8446-21937e8a5553" />
-<img width="31" height="22" alt="image" src="https://github.com/user-attachments/assets/03188f56-0e32-4185-af82-f31e48106f85" />
-<img width="31" height="22" alt="image" src="https://github.com/user-attachments/assets/e67409e3-aa9c-4ac3-8842-f1f3c00e5d50" />
-<img width="31" height="22" alt="image" src="https://github.com/user-attachments/assets/afa84b9b-cb99-4681-885c-3df6052629b6" />
+<img src="https://64.media.tumblr.com/60fcbc325e1f362663e6139748b08321/19136507c3e35d84-56/s75x75_c1/545790ae4d9726849567faa19393bf5912f0ce9b.pnj" />
+    <img src="https://github.com/user-attachments/assets/7c233adc-8dbb-45fc-8446-21937e8a5553" />
+<img src="https://github.com/user-attachments/assets/03188f56-0e32-4185-af82-f31e48106f85" />
+<img src="https://github.com/user-attachments/assets/e67409e3-aa9c-4ac3-8842-f1f3c00e5d50" />
+<img src="https://github.com/user-attachments/assets/afa84b9b-cb99-4681-885c-3df6052629b6" />
 </p>
 
   <p align="center">
